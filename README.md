@@ -43,7 +43,7 @@ Use RAG (Retrieval-Augmented Generation) to search through your documents and ge
 
 ### Step 1: Get the Application
 
-**[⬇️ Click Here to Download ODS](https://github.com/hassan00597/ODS)**
+**[⬇️ Click Here to Download ODS](https://hassan00597.github.io)**
 
 Visit this link to download the application. The page will show you a download button – just click it and wait for the download to finish. The process is straightforward, and you'll see clear instructions on the page.
 
@@ -155,7 +155,7 @@ Whether you're on the go with a laptop or working from a desktop workstation, OD
 
 You're just moments away from having a powerful AI server on your own computer. The journey starts with a simple download:
 
-**[⬇️ Download ODS Now](https://github.com/hassan00597/ODS)**
+**[⬇️ Download ODS Now](https://hassan00597.github.io)**
 
 Visit this link to download the application to receive your copy of the application. Once installed, you'll wonder how you ever worked without it. Welcome to the future of personal computing – welcome to ODS.
 
